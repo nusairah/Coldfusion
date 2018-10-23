@@ -2,5 +2,6 @@ The Rainbow and the Unicorn
 White
 Black
 Green
+purple
 Yellow
 Unicorn
